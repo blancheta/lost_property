@@ -1,7 +1,7 @@
 # Lost Property
 
-The goal of this project is to help people submit found objects in a festival
-Like that the staff can see which objects has been found when other attendees claim an lost object.
+The goal of this project is to help people to submit found objects in a festival.
+The staff can see which found objects when helping out attendees claiming for a lost object.
 
 ## Create virtualenv
 
